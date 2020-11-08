@@ -1,0 +1,9 @@
+﻿  源.cpp
+F:\vs新建项目专用\1133 Splitting A Linked List (25分)\1133 Splitting A Linked List (25分)\源.cpp(27,20): warning C4018: “<”: 有符号/无符号不匹配
+F:\vs新建项目专用\1133 Splitting A Linked List (25分)\1133 Splitting A Linked List (25分)\源.cpp(33,20): warning C4018: “<”: 有符号/无符号不匹配
+F:\vs新建项目专用\1133 Splitting A Linked List (25分)\1133 Splitting A Linked List (25分)\源.cpp(36,20): warning C4018: “<”: 有符号/无符号不匹配
+F:\vs新建项目专用\1133 Splitting A Linked List (25分)\1133 Splitting A Linked List (25分)\源.cpp(39,20): warning C4018: “<”: 有符号/无符号不匹配
+F:\vs新建项目专用\1133 Splitting A Linked List (25分)\1133 Splitting A Linked List (25分)\源.cpp(42,20): warning C4018: “<”: 有符号/无符号不匹配
+F:\vs新建项目专用\1133 Splitting A Linked List (25分)\1133 Splitting A Linked List (25分)\源.cpp(18,18): warning C4101: “next”: 未引用的局部变量
+F:\vs新建项目专用\1133 Splitting A Linked List (25分)\1133 Splitting A Linked List (25分)\源.cpp(18,12): warning C4101: “data”: 未引用的局部变量
+  1133 Splitting A Linked List (25分).vcxproj -> F:\vs新建项目专用\1133 Splitting A Linked List (25分)\Debug\1133 Splitting A Linked List (25分).exe

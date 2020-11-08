@@ -1,0 +1,12 @@
+﻿  Magic Coupon(25).cpp
+F:\vs新建项目专用\Magic Coupon(25)\Magic Coupon(25)\Magic Coupon(25).cpp(28,27): warning C4244: “+=”: 从“_Ty”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty=__int64
+          ]
+F:\vs新建项目专用\Magic Coupon(25)\Magic Coupon(25)\Magic Coupon(25).cpp(32,25): warning C4244: “+=”: 从“_Ty”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty=__int64
+          ]
+  Magic Coupon(25).vcxproj -> F:\vs新建项目专用\Magic Coupon(25)\Debug\Magic Coupon(25).exe

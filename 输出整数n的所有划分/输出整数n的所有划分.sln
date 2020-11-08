@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "输出整数n的所有划分", "输出整数n的所有划分\输出整数n的所有划分.vcxproj", "{0AEF659E-CAA3-42CD-BBB3-3F0EF5E28CEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0AEF659E-CAA3-42CD-BBB3-3F0EF5E28CEB}.Debug|x64.ActiveCfg = Debug|x64
+		{0AEF659E-CAA3-42CD-BBB3-3F0EF5E28CEB}.Debug|x64.Build.0 = Debug|x64
+		{0AEF659E-CAA3-42CD-BBB3-3F0EF5E28CEB}.Debug|x86.ActiveCfg = Debug|Win32
+		{0AEF659E-CAA3-42CD-BBB3-3F0EF5E28CEB}.Debug|x86.Build.0 = Debug|Win32
+		{0AEF659E-CAA3-42CD-BBB3-3F0EF5E28CEB}.Release|x64.ActiveCfg = Release|x64
+		{0AEF659E-CAA3-42CD-BBB3-3F0EF5E28CEB}.Release|x64.Build.0 = Release|x64
+		{0AEF659E-CAA3-42CD-BBB3-3F0EF5E28CEB}.Release|x86.ActiveCfg = Release|Win32
+		{0AEF659E-CAA3-42CD-BBB3-3F0EF5E28CEB}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9BAD652E-1A15-4612-BE3A-D6878F1BAB25}
+	EndGlobalSection
+EndGlobal

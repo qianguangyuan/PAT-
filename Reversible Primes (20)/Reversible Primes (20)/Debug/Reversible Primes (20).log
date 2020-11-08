@@ -1,0 +1,4 @@
+﻿  Reversible Primes (20).cpp
+F:\vs新建项目专用\Reversible Primes (20)\Reversible Primes (20)\Reversible Primes (20).cpp(26,23): warning C4018: “<”: 有符号/无符号不匹配
+F:\vs新建项目专用\Reversible Primes (20)\Reversible Primes (20)\Reversible Primes (20).cpp(27,47): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+  Reversible Primes (20).vcxproj -> F:\vs新建项目专用\Reversible Primes (20)\Debug\Reversible Primes (20).exe

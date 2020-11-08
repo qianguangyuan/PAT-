@@ -1,0 +1,5 @@
+﻿  源.cpp
+F:\vs新建项目专用\1141 PAT Ranking of Institutions (25分)\1141 PAT Ranking of Institutions (25分)\源.cpp(28,21): warning C4018: “<”: 有符号/无符号不匹配
+F:\vs新建项目专用\1141 PAT Ranking of Institutions (25分)\1141 PAT Ranking of Institutions (25分)\源.cpp(41,26): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+F:\vs新建项目专用\1141 PAT Ranking of Institutions (25分)\1141 PAT Ranking of Institutions (25分)\源.cpp(47,20): warning C4018: “<”: 有符号/无符号不匹配
+  1141 PAT Ranking of Institutions (25分).vcxproj -> F:\vs新建项目专用\1141 PAT Ranking of Institutions (25分)\Debug\1141 PAT Ranking of Institutions (25分).exe

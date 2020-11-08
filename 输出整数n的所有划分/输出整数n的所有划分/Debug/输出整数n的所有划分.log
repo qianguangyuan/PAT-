@@ -1,0 +1,2 @@
+﻿输出整数n的所有划分.obj : error LNK2005: _main 已经在 源1.obj 中定义
+F:\vs新建项目专用\输出整数n的所有划分\Debug\输出整数n的所有划分.exe : fatal error LNK1169: 找到一个或多个多重定义的符号

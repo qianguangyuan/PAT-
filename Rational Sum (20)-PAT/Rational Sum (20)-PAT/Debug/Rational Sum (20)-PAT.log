@@ -1,0 +1,10 @@
+﻿  Rational Sum (20)-PAT.cpp
+F:\vs新建项目专用\Rational Sum (20)-PAT\Rational Sum (20)-PAT\Rational Sum (20)-PAT.cpp(21,39): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+F:\vs新建项目专用\Rational Sum (20)-PAT\Rational Sum (20)-PAT\Rational Sum (20)-PAT.cpp(21,30): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+F:\vs新建项目专用\Rational Sum (20)-PAT\Rational Sum (20)-PAT\Rational Sum (20)-PAT.cpp(28,41): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+F:\vs新建项目专用\Rational Sum (20)-PAT\Rational Sum (20)-PAT\Rational Sum (20)-PAT.cpp(28,30): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+F:\vs新建项目专用\Rational Sum (20)-PAT\Rational Sum (20)-PAT\Rational Sum (20)-PAT.cpp(59,44): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+F:\vs新建项目专用\Rational Sum (20)-PAT\Rational Sum (20)-PAT\Rational Sum (20)-PAT.cpp(59,35): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+F:\vs新建项目专用\Rational Sum (20)-PAT\Rational Sum (20)-PAT\Rational Sum (20)-PAT.cpp(66,46): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+F:\vs新建项目专用\Rational Sum (20)-PAT\Rational Sum (20)-PAT\Rational Sum (20)-PAT.cpp(66,35): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+  Rational Sum (20)-PAT.vcxproj -> F:\vs新建项目专用\Rational Sum (20)-PAT\Debug\Rational Sum (20)-PAT.exe

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "中序遍历与后序遍历构造二叉树", "中序遍历与后序遍历构造二叉树\中序遍历与后序遍历构造二叉树.vcxproj", "{B66D4DEE-4050-4CF3-9EDE-B38CB2E75F86}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B66D4DEE-4050-4CF3-9EDE-B38CB2E75F86}.Debug|x64.ActiveCfg = Debug|x64
+		{B66D4DEE-4050-4CF3-9EDE-B38CB2E75F86}.Debug|x64.Build.0 = Debug|x64
+		{B66D4DEE-4050-4CF3-9EDE-B38CB2E75F86}.Debug|x86.ActiveCfg = Debug|Win32
+		{B66D4DEE-4050-4CF3-9EDE-B38CB2E75F86}.Debug|x86.Build.0 = Debug|Win32
+		{B66D4DEE-4050-4CF3-9EDE-B38CB2E75F86}.Release|x64.ActiveCfg = Release|x64
+		{B66D4DEE-4050-4CF3-9EDE-B38CB2E75F86}.Release|x64.Build.0 = Release|x64
+		{B66D4DEE-4050-4CF3-9EDE-B38CB2E75F86}.Release|x86.ActiveCfg = Release|Win32
+		{B66D4DEE-4050-4CF3-9EDE-B38CB2E75F86}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56FCFE4A-B8A8-48B1-9CF4-742AEFCC3734}
+	EndGlobalSection
+EndGlobal

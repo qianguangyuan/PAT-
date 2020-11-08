@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1138 Postorder Traversal (25分)", "1138 Postorder Traversal (25分)\1138 Postorder Traversal (25分).vcxproj", "{78C7E35B-735C-47CB-A5A9-E60DDFC700AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78C7E35B-735C-47CB-A5A9-E60DDFC700AE}.Debug|x64.ActiveCfg = Debug|x64
+		{78C7E35B-735C-47CB-A5A9-E60DDFC700AE}.Debug|x64.Build.0 = Debug|x64
+		{78C7E35B-735C-47CB-A5A9-E60DDFC700AE}.Debug|x86.ActiveCfg = Debug|Win32
+		{78C7E35B-735C-47CB-A5A9-E60DDFC700AE}.Debug|x86.Build.0 = Debug|Win32
+		{78C7E35B-735C-47CB-A5A9-E60DDFC700AE}.Release|x64.ActiveCfg = Release|x64
+		{78C7E35B-735C-47CB-A5A9-E60DDFC700AE}.Release|x64.Build.0 = Release|x64
+		{78C7E35B-735C-47CB-A5A9-E60DDFC700AE}.Release|x86.ActiveCfg = Release|Win32
+		{78C7E35B-735C-47CB-A5A9-E60DDFC700AE}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F0816D4-67F1-4031-B2B3-7F3E4F32044F}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,129 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .select {
+            height: 20px;
+        }
+    </style>
+</head>
+
+<body>
+    <div>
+        <form action="Index2" method="POST">
+            <span style="color: blue;"><b>&nbsp&nbsp&nbsp&nbsp欢迎注册会员</b></span></p>
+
+
+            <p>
+                <label>
+                    <b>手机号码：</b>
+                    <input type="text" name="username" placeholder=" 11位手机号码" style="height:20px" autofocus>
+                </label><span style="color: red;">必填</span>
+            </p>
+
+
+            <p>
+                <label><b>创建密码：</b><input type="password" name="psd" placeholder="长度8个字符" style="height:20px"></label><span style="color: red;">必填</span>
+            </p>
+
+            <p>
+                <b><label for="email1">注册邮箱：</label></b><input type="text" name="email" id="email1"
+                                                               placeholder="例如:wustzz@Sina.com" style="height:20px"><span style="color: red;">必填</span>
+            </p>
+
+            <!-- <p><b><label>&nbsp&nbsp验证码：</label></b><input type="text" name="code" style="height:20px">
+                <img src="image/definecode.png" style="width: 90px; height: 30px;"></p> -->
+            <p>
+                <b>
+                    &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp性别：
+                    <label>
+                        <input type="radio" name="sex" value="男" checked="checked" style="height:20px"> 男
+                    </label>
+                    <label>
+                        <input type="radio" name="sex" value="female" style="height:20px"> 女
+                    </label>
+                </b>
+            </p>
+
+            <p>
+                <label>
+                    <b>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp生日：</b>
+                    <input type="text" name="birthday" value=" 年/ 月/ 日" style="height:20px">
+                </label>
+            </p>
+
+            <p>
+                <label>
+                    <b>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp年龄：</b>
+                    <input type="text" name="old" style="height:20px">
+                </label>
+            </p>
+
+
+            <p>
+                <b>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp籍贯：</b>
+                <select name="province" class="select">
+                    <option value="湖北省">湖北省</option>
+                    <option value="湖南省">湖南省</option>
+                    <option value="广东省">广东省</option>
+                </select>
+                <select name="city" class="select">
+                    <option value="武汉市">武汉市</option>
+                    <option value="长沙市">长沙市</option>
+                    <option value="广州市">广州市</option>
+                </select>
+            </p>
+
+            <p>
+                <b>个人学历：</b>
+                <select name="province" class="select">
+                    <option value="本科">本科</option>
+                    <option value="专科">专科</option>
+                    <option value="高中">高中</option>
+                </select>
+            </p>
+
+            <p>
+                <b>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp成绩：</b><input type="range" min="0.0" max="100.0" step="0.5" value="50.0" id="score" name="score">
+                <span id="msg"></span>
+                <script>
+                    document.getElementById("score").onchange = function () {
+                        var msg = document.getElementById("msg");
+                        msg.innerHTML = this.value;
+                    }
+                </script>
+            </p>
+
+            <p>
+                <b>个人爱好：</b>
+                <label>
+                    <input type="checkbox" name="like" value="唱歌" class="select">唱歌
+                </label>
+                <label>
+                    <input type="checkbox" name="like" value="跑步" class="select">跑步
+                </label>
+                <label>
+                    <input type="checkbox" name="like" value="游泳">游泳
+            </p>
+
+            <div>
+                <b>个人照片：</b>
+                <input type="file" name="myfile" accept="image/*">
+            </div>
+            <div>
+                <b>个人简介：</b>
+                <p><textarea name="intro" col="50" rows="8">请填写个人简历</textarea></p>
+            </div>
+
+            <input type="submit" value="提交">
+            <input type="reset" value="重置">
+
+        </form>
+    </div>
+</body>
+
+</html>
